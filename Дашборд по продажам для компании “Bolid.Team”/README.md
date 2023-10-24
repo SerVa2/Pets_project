@@ -69,4 +69,4 @@
 * Есть возможность отследить в динамике  отклонение от среднего в абсолютных значениях и долях
 
 * Добавлен график изменения средней выручки по дням недели
-ДАШБОРД:<iframe seamless frameborder="0" src="https://datalens.yandex/w0mpscyfaeiil" width = '650' height = '450' scrolling='yes' ></iframe> 
+ДАШБОРД:    < src="https://datalens.yandex/w0mpscyfaeiil" width = '650' height = '450' scrolling='yes' > 
