@@ -5,15 +5,11 @@
 Заказчик предоставил данные в двух файлах в формате Excel о подопечных фонда и о донорах фонда.
 
 Данные о подопечных:\
-Google Sheets\
-[https://docs.google.com/spreadsheets/d/1_S4m-SK2juop8FkCMVCFIAJcUi2zFBj25VVOsUA aOT4/edit#gid=1721685457](https://docs.google.com/spreadsheets/d/1_S4m-SK2juop8FkCMVCFIAJcUi2zFBj25VVOsUAaOT4/edit#gid=1721685457)\
 Я.Диск\
 <https://disk.yandex.ru/i/wF4zNVkgsA1h0A>
 Данные о донорах:\
 Я.Диск
 <https://disk.yandex.ru/d/uenb_rcX8ECmcw>\
-Google Sheets\
-<https://docs.google.com/spreadsheets/d/1OfWqpwyiTnM9fTbrgxIkK_xXJL5803p-Y-FmECmOspU/edit#gid=42853625>
 **Необходимо провести предобработку данных о подопечных фонда**.
 
 Из-за несовершенства сбора данных к старту мастерской информация в полях датасета представлена в разрозненном виде. Необходимо привести к единообразию написание значений в полях:\\
@@ -23,10 +19,7 @@ Google Sheets\
 * 'Диагноз',
 * 'Этап',
 * 'Помощь'
-  Для выполнения этой задачирекомендован справочник по ссылке:
-  <https://docs.google.com/spreadsheets/d/1ODxYYhWq1OMntpGo9gD8jYKJQV6lGfw0fAtkyhCr1Q0/edit#gid=822464959>\
   Устранить другие неточности в данных, провести анализ и дать рекомендации по сбору данных на будущее.
-
 В файле о донорах фонда проводим исследование данных, поиск инсайтов.
 
 **Основная задача проекта - построение двухстраничного дашборда**.
